@@ -11,6 +11,4 @@ americom-qt-linux.tar: https://1drv.ms/u/s!AnfxPZJvnghviP4bvIUTrjGulhsr6Q
 
 americom-daemon-windows: https://1drv.ms/u/s!AnfxPZJvnghviP4cqaaHhsxVv_s5pw
 
-Sorry for the logo default. Will be fixed at next update. I hope.
-
 logo (1024x1024 with transparency): https://1drv.ms/u/s!AnfxPZJvnghviP4du6dAMX2iB94Yyg
