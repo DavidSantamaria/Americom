@@ -10,5 +10,3 @@ americom-daemon-windows: https://1drv.ms/u/s!AnfxPZJvnghviP4aT9bdt6t92uMcqQ
 americom-qt-linux.tar: https://1drv.ms/u/s!AnfxPZJvnghviP4bvIUTrjGulhsr6Q
 
 americom-daemon-windows: https://1drv.ms/u/s!AnfxPZJvnghviP4cqaaHhsxVv_s5pw
-
-logo (1024x1024 with transparency): https://1drv.ms/u/s!AnfxPZJvnghviP4du6dAMX2iB94Yyg
