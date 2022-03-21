@@ -1,6 +1,10 @@
 # Americom | For Antarctica, Aerospace, America.
 [ANN] https://bitcointalk.org/index.php?topic=5091836.msg48994488#msg48994488
 
+Site: https://davidsantamaria.github.io/Om/
+
+Discord: https://discord.gg/Ug4wVfSvFH
+
 Source Code: https://1drv.ms/u/s!AnfxPZJvnghviYQq8N6idU44Ozgo5A
 
 americom-qt-windows: https://1drv.ms/u/s!AnfxPZJvnghviP4ZHadaDMvieLiT3Q
